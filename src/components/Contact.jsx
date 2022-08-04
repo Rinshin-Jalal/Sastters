@@ -1,5 +1,7 @@
 import React from "react";
 
+// are you thger????????????????yes bro
+
 const Contact = () => {
   return (
     <section className="contact">

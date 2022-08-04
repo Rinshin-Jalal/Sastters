@@ -12,8 +12,14 @@ const Hero = () => {
       </div>
       <div className="right">
         <div className="imgs">
-          <img src="/imgs/img-1.png" alt="hero_img1" className="hero-img1" />
-          <img src="/imgs/img-2.png" alt="hero_img2" className="hero-img2" />
+          {/* <img src="/imgs/img-1.png" alt="hero_img1" className="hero-img1" />
+          <img src="/imgs/img-2.png" alt="hero_img2" className="hero-img2" /> */}
+
+          <img
+            src="/imgs/hero-img.png"
+            alt="Advertisement of sastters"
+            className="hero-img"
+          />
         </div>
       </div>
     </section>
