@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero">
       <div className="left">
         <h1 className="hero-text">
-           We design <span>The Future!</span> {/*hello this is a test */}
+           We design <span>The Future!</span> {/*hello this is a test (add ur name here to prove it is successful) */}
         </h1>
         <button>Explore more</button>
       </div>
