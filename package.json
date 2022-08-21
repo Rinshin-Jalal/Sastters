@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "use-web3forms": "^1.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",

@@ -3,7 +3,7 @@ import "../index.css";
 
 const About = () => {
   return (
-    <section className="about">
+    <section className="about" id="about">
       <div className="left">
         <img src="/imgs/img-3.png" alt="Sastters Ad" />
       </div>
@@ -17,7 +17,7 @@ const About = () => {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. <br />.{" "}
+          aliquip ex ea commodo consequat.
         </p>
       </div>
     </section>

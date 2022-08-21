@@ -5,14 +5,14 @@ const Nav = () => {
   return (
     <nav>
       <div className="left">
-        <a href="#">
+        <a href="#hero">
           <img src="/imgs/logo_text.png" className="logo" alt="logo" />
         </a>
       </div>
       <div className="right">
         <div className="links">
-          <a>About</a>
-          <a>Contact Us</a>
+          <a href="#about">About</a>
+          <a href="#contact">Contact Us</a>
         </div>
       </div>
     </nav>
